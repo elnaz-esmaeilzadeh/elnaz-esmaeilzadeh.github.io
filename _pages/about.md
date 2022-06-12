@@ -12,7 +12,7 @@ I am an assistant professor of civil and environmental engineering at the Univer
 
 My Research
 ======
-My research focuses on achieving synergy among mechanistic modeling, distributed sensing, data analytics, and high-performance computing to develop rigorous methodologies and frameworks for physics-based learning, modeling, and uncertainty quantification in geo-systems.
+My research focuses on developing and utilizing rigorous physics-based learning, modeling, and uncertainty quantification methodologies in geostructures and geophysics applications to understand better the built environment’s interaction with the earthquake hazard taking interdependencies and uncertainties into account. 
 
 
 My Background
