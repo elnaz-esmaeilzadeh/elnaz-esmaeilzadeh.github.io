@@ -12,16 +12,16 @@ I am an assistant professor of civil and environmental engineering at the Univer
 
 My Research
 ======
-My research focuses on developing rigorous frameworks and methodologies to enable and accelerate physics-based learning, modeling, and uncertainty quantification in geosystems. Broadly, my research seeks to achieve the synergy among mechanistic modeling, distributed sensing, scientific machine learning, and high-performance computing to understand better the built environment’s interaction with natural and man-made hazards taking interdependencies and uncertainties into account. Such discoveries can be used subsequently to devise and train physics-based models for engineering applications from design to decision making. 
+My research focuses on developing and testing new techniques and methodologies to improve and accelerate physics-based learning, modeling, and uncertainty quantification in geosystems. Broadly, I am interested in achieving the synergy among mechanistic modeling, distributed sensing, scientific machine learning, and high-performance computing to understand better the built environment’s interaction with natural/induced hazards taking interdependencies and uncertainties into account, and usinng the improved understanding to devise and train predictive models for engineering applications from design to decision making. 
 
-Examples of ongoing efforts are:
+Examples of our ongoing efforts are:
 
 - Surrogate modeling for uncertainty quantification in soil-structure interaction problems
 - Distributed acoustic sensing for subsurface monitoring and characterization
 - Shallow crust characterization and modeling in broad-band linear and nonliear deterministic ground motion simulations
 - Foundation engineering for seismic wave attenuation and manipulation
 
-I am one of the developers of seismo-VLAB, an open-source finite element software for wave propagation and soil-structure interaction modeling. For more details, please check the [software website](https://seismovlab.com).
+I am one of the developers of seismo-VLAB, an open-source finite element software for wave propagation and soil-structure interaction modeling. For more details please check the [software website](https://seismovlab.com).
 
 
 My Background
