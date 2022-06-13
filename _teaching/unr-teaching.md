@@ -1,11 +1,11 @@
 ---
 title: "Teaching"
 collection: teaching
-type: ""
+#type: ""
 permalink: /teaching/unr-teaching
-venue: ""
-date: ""
-location: "" 
+#venue: ""
+#date: 
+#location: "" 
 ---
 
 - CEE 372: Mechanics of Solids, Fall 2021, 2022
