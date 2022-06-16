@@ -18,10 +18,10 @@ My research focuses on developing and testing new techniques and methodologies t
 
 Examples of our ongoing efforts are:
 
-- Surrogate modeling for uncertainty quantification in soil-structure interaction problems
-- Distributed acoustic sensing for subsurface monitoring and characterization
-- Shallow crust characterization and modeling in broad-band linear and nonliear deterministic ground motion simulations
-- Foundation engineering for seismic wave attenuation and manipulation
+- Uncertainty quantification in geosystems
+- Geosystem monitoring and characterization
+- Shallow crust characterization and modeling
+- Foundation engineering for seismic wave manipulation
 
 Software
 ======
